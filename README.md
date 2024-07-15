@@ -18,4 +18,4 @@ Got a knack for numbers, a love for code, or just enjoy a good financial pun? Fo
 
 Happy coding and happy quant-ing! 🚀
 
-## Disclaimer: No quant models were harmed in the making of these projects. All market predictions are purely coincidental. Enjoy responsibly!
+### Disclaimer: No quant models were harmed in the making of these projects. All market predictions are purely coincidental. Enjoy responsibly!
